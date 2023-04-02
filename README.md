@@ -1,4 +1,4 @@
-# todo_list
+# todo_app
 
 An App To manage all your tasks with firebase backend.
 
