@@ -1,5 +1,4 @@
-# todo_app
-
+# todo_app ITI Tasks
 An App To manage all your tasks with firebase backend.
 
 ✨ Features :
